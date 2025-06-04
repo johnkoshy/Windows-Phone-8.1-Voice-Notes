@@ -1,0 +1,58 @@
+```
+# Visual Studio / Windows Phone
+bin/
+obj/
+*.suo
+*.user
+*.sln.docstates
+*.cache
+*.csproj.user
+*.pdb
+*.appx
+*.appxsym
+*.appxupload
+*.xap
+*.sdf
+*.ipch
+*.aps
+*.bak
+*.log
+*.tlog
+*.db
+
+# Visual Studio temporary files
+*.vs/
+*.VC.db
+*.VC.opendb
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+ARM/
+x86/
+
+# NuGet Packages
+*.nupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Windows Phone specific
+AppPackages/
+BundleArtifacts/
+*.appxrecipe
+*.appxbundle
+
+# Other
+[Tt]est[Rr]esult*/
+*.cache
+*.tmp
+*.temp
+*.log
+*.bak
+Thumbs.db
+.DS_Store
+```
