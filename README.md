@@ -24,11 +24,11 @@ Open Windows-Phone-8.1-Voice-Notes.sln in Visual Studio 2015.
 Ensure the Microphone capability is enabled in Package.appxmanifest.
 Build and run on a Windows Phone 8.1 emulator or device.
 
-Usage
+## Usage
 
 Click Record to start recording audio.
 Click Stop to save the recording.
 Select a recording from the list and click Play Selected to play it back.
 
-License
-MIT License (or specify your preferred license).```
+## License
+MIT License.
