@@ -7,6 +7,9 @@ A simple Windows Phone 8.1 app for recording, saving, and playing back audio not
 - Save recordings as WAV files in local storage.
 - List and play back saved recordings.
 
+Screenshots
+![Windows Phone 8.1 Voice Notes App Main Screen](Screenshots/main.png)
+
 ## Requirements
 - Windows Phone 8.1 device or emulator.
 - Visual Studio 2015 with Windows Phone 8.1 SDK.
