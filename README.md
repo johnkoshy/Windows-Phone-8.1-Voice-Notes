@@ -17,7 +17,7 @@ Screenshots
 
 ## Setup
 1. Clone the repository:
-   git clone https://github.com/your-username/Windows-Phone-8.1-Voice-Notes.git
+   git clone https://github.com/johnkoshy/Windows-Phone-8.1-Voice-Notes.git
 
 
 Open Windows-Phone-8.1-Voice-Notes.sln in Visual Studio 2015.
